@@ -1,0 +1,7 @@
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\obj\Debug\Progcomprimento.csprojAssemblyReference.cache
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\obj\Debug\Progcomprimento.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\bin\Debug\Progcomprimento.exe.config
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\bin\Debug\Progcomprimento.exe
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\bin\Debug\Progcomprimento.pdb
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\obj\Debug\Progcomprimento.exe
+C:\Users\abner\source\repos\Progcomprimento\Progcomprimento\obj\Debug\Progcomprimento.pdb
